@@ -1,1 +1,1 @@
-# Mysterious This is our first group project on Web-development.
+This is our first group project on Web-development.
